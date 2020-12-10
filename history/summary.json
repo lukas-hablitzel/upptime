@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/rothcoaching-challenges.com",
     "slug": "rothcoaching-challenges",
     "status": "up",
-    "uptime": "8.03%",
-    "uptimeDay": "8.03%",
-    "uptimeWeek": "8.03%",
-    "uptimeMonth": "8.03%",
-    "uptimeYear": "8.03%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 734,
     "timeDay": 734,
     "timeWeek": 734,
     "timeMonth": 734,
     "timeYear": 734,
-    "dailyMinutesDown": {
-      "2020-12-10": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Praxis Zeller König",
