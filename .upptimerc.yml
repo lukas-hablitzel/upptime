@@ -4,8 +4,8 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Schmidt-Nagel
+    url: https://schmidt-nagel.ch
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
