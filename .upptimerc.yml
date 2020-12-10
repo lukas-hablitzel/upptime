@@ -16,6 +16,10 @@ sites:
     url: https://kokeshi.ai
   - name: Lukas Hablitzel
     url: https://lukas-hablitzel.com
+  - name: ØNEsquared
+    url: https://one-squared.com
+  - name: Next Test
+    url: https://test4.one-squared.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
