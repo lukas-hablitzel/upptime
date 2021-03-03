@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/schmidt-nagel.ch",
     "slug": "schmidt-nagel",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 898,
-    "timeDay": 807,
-    "timeWeek": 779,
-    "timeMonth": 805,
+    "timeDay": 937,
+    "timeWeek": 800,
+    "timeMonth": 814,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2021-01-16": 53
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 613,
-    "timeDay": 569,
-    "timeWeek": 546,
-    "timeMonth": 562,
-    "timeYear": 613,
+    "time": 612,
+    "timeDay": 559,
+    "timeWeek": 521,
+    "timeMonth": 561,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2021-01-06": 25,
       "2020-12-21": 24,
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 615,
-    "timeDay": 485,
-    "timeWeek": 494,
-    "timeMonth": 545,
-    "timeYear": 615,
+    "time": 614,
+    "timeDay": 560,
+    "timeWeek": 505,
+    "timeMonth": 544,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2021-01-06": 24
     }
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
-    "time": 591,
-    "timeDay": 461,
-    "timeWeek": 495,
-    "timeMonth": 559,
-    "timeYear": 591,
+    "time": 589,
+    "timeDay": 443,
+    "timeWeek": 486,
+    "timeMonth": 555,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2021-02-03": 36,
       "2021-01-06": 24
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 802,
-    "timeDay": 548,
-    "timeWeek": 563,
-    "timeMonth": 674,
-    "timeYear": 802,
+    "time": 800,
+    "timeDay": 675,
+    "timeWeek": 581,
+    "timeMonth": 644,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2021-01-06": 24
     }
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1004,
-    "timeDay": 945,
-    "timeWeek": 771,
-    "timeMonth": 918,
-    "timeYear": 1004,
+    "time": 1010,
+    "timeDay": 1499,
+    "timeWeek": 888,
+    "timeMonth": 924,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2021-01-06": 23
     }
@@ -135,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 617,
-    "timeDay": 497,
-    "timeWeek": 508,
-    "timeMonth": 583,
+    "timeDay": 614,
+    "timeWeek": 523,
+    "timeMonth": 582,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2021-01-06": 23
@@ -154,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2053,
-    "timeDay": 3781,
-    "timeWeek": 1594,
-    "timeMonth": 1856,
-    "timeYear": 2053,
+    "time": 2059,
+    "timeDay": 2596,
+    "timeWeek": 1805,
+    "timeMonth": 1893,
+    "timeYear": 2059,
     "dailyMinutesDown": {
       "2021-01-06": 22
     }
