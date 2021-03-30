@@ -4,17 +4,17 @@
     "url": "https://schmidt-nagel.ch",
     "icon": "https://favicons.githubusercontent.com/schmidt-nagel.ch",
     "slug": "schmidt-nagel",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 876,
-    "timeDay": 982,
-    "timeWeek": 858,
+    "time": 875,
+    "timeDay": 926,
+    "timeWeek": 853,
     "timeMonth": 810,
-    "timeYear": 876,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2021-01-16": 53
     }
