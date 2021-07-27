@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 840,
-    "timeDay": 616,
+    "timeDay": 814,
     "timeWeek": 716,
-    "timeMonth": 787,
+    "timeMonth": 777,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2021-01-16": 53
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 572,
-    "timeDay": 464,
-    "timeWeek": 492,
-    "timeMonth": 574,
+    "timeDay": 582,
+    "timeWeek": 509,
+    "timeMonth": 565,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2021-01-06": 25,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 581,
-    "timeDay": 431,
-    "timeWeek": 486,
-    "timeMonth": 571,
+    "timeDay": 571,
+    "timeWeek": 505,
+    "timeMonth": 566,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2021-01-06": 24
@@ -68,18 +68,17 @@
     "icon": "https://favicons.githubusercontent.com/praxis-zeller-koenig.de",
     "slug": "praxis-zeller-koenig",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 570,
-    "timeDay": 476,
-    "timeWeek": 511,
-    "timeMonth": 574,
+    "timeDay": 539,
+    "timeWeek": 550,
+    "timeMonth": 573,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2021-07-26": 8,
       "2021-05-04": 21,
       "2021-02-03": 36,
       "2021-01-06": 24
@@ -97,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 700,
-    "timeDay": 557,
-    "timeWeek": 587,
-    "timeMonth": 637,
+    "timeDay": 671,
+    "timeWeek": 611,
+    "timeMonth": 634,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2021-01-06": 24
@@ -117,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 964,
-    "timeDay": 822,
-    "timeWeek": 832,
-    "timeMonth": 978,
+    "timeDay": 977,
+    "timeWeek": 847,
+    "timeMonth": 968,
     "timeYear": 964,
     "dailyMinutesDown": {
       "2021-01-06": 23
@@ -137,9 +136,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 567,
-    "timeDay": 495,
-    "timeWeek": 544,
-    "timeMonth": 577,
+    "timeDay": 607,
+    "timeWeek": 568,
+    "timeMonth": 573,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2021-01-06": 23
@@ -156,11 +155,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2215,
-    "timeDay": 2575,
-    "timeWeek": 2280,
-    "timeMonth": 2403,
-    "timeYear": 2215,
+    "time": 2217,
+    "timeDay": 2477,
+    "timeWeek": 2288,
+    "timeMonth": 2379,
+    "timeYear": 2217,
     "dailyMinutesDown": {
       "2021-01-06": 22
     }
