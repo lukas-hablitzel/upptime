@@ -68,9 +68,9 @@
     "url": "https://praxis-zeller-koenig.de",
     "icon": "https://favicons.githubusercontent.com/praxis-zeller-koenig.de",
     "slug": "praxis-zeller-koenig",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -80,6 +80,7 @@
     "timeMonth": 561,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2021-08-06": 0,
       "2021-05-04": 21,
       "2021-02-03": 36,
       "2021-01-06": 24
