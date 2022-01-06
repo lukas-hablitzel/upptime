@@ -11,10 +11,10 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.92%",
     "time": 836,
-    "timeDay": 525,
-    "timeWeek": 733,
-    "timeMonth": 740,
-    "timeYear": 826,
+    "timeDay": 722,
+    "timeWeek": 694,
+    "timeMonth": 746,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2021-12-11": 25,
       "2021-12-10": 28,
@@ -36,13 +36,12 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.97%",
     "time": 577,
-    "timeDay": 433,
-    "timeWeek": 693,
+    "timeDay": 448,
+    "timeWeek": 536,
     "timeMonth": 604,
-    "timeYear": 569,
+    "timeYear": 568,
     "dailyMinutesDown": {
-      "2021-12-30": 123,
-      "2021-01-06": 25
+      "2021-12-30": 123
     }
   },
   {
@@ -57,13 +56,12 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.97%",
     "time": 582,
-    "timeDay": 461,
-    "timeWeek": 593,
-    "timeMonth": 595,
-    "timeYear": 574,
+    "timeDay": 470,
+    "timeWeek": 561,
+    "timeMonth": 593,
+    "timeYear": 573,
     "dailyMinutesDown": {
-      "2021-12-30": 123,
-      "2021-01-06": 24
+      "2021-12-30": 123
     }
   },
   {
@@ -78,16 +76,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 578,
-    "timeDay": 515,
-    "timeWeek": 606,
-    "timeMonth": 595,
-    "timeYear": 573,
+    "timeDay": 512,
+    "timeWeek": 542,
+    "timeMonth": 597,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2021-10-28": 29,
       "2021-10-27": 22,
       "2021-05-04": 21,
-      "2021-02-03": 36,
-      "2021-01-06": 24
+      "2021-02-03": 36
     }
   },
   {
@@ -102,13 +99,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 677,
-    "timeDay": 491,
-    "timeWeek": 603,
-    "timeMonth": 613,
-    "timeYear": 670,
-    "dailyMinutesDown": {
-      "2021-01-06": 24
-    }
+    "timeDay": 512,
+    "timeWeek": 560,
+    "timeMonth": 614,
+    "timeYear": 669,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lukas Hablitzel",
@@ -121,14 +116,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 744,
-    "timeWeek": 820,
-    "timeMonth": 853,
-    "timeYear": 920,
-    "dailyMinutesDown": {
-      "2021-01-06": 23
-    }
+    "time": 924,
+    "timeDay": 663,
+    "timeWeek": 755,
+    "timeMonth": 851,
+    "timeYear": 918,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ØNEsquared",
@@ -142,13 +135,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 568,
-    "timeDay": 451,
-    "timeWeek": 537,
-    "timeMonth": 646,
-    "timeYear": 560,
-    "dailyMinutesDown": {
-      "2021-01-06": 23
-    }
+    "timeDay": 538,
+    "timeWeek": 515,
+    "timeMonth": 649,
+    "timeYear": 559,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Next Test",
@@ -161,13 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2208,
-    "timeDay": 2254,
-    "timeWeek": 2226,
-    "timeMonth": 2161,
-    "timeYear": 2232,
-    "dailyMinutesDown": {
-      "2021-01-06": 22
-    }
+    "time": 2207,
+    "timeDay": 1975,
+    "timeWeek": 2123,
+    "timeMonth": 2178,
+    "timeYear": 2229,
+    "dailyMinutesDown": {}
   }
 ]
