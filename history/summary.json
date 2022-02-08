@@ -51,9 +51,9 @@
     "url": "https://rothcoaching-challenges.com/",
     "icon": "https://favicons.githubusercontent.com/rothcoaching-challenges.com",
     "slug": "rothcoaching-challenges",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -63,6 +63,7 @@
     "timeMonth": 542,
     "timeYear": 567,
     "dailyMinutesDown": {
+      "2022-02-08": 0,
       "2021-12-30": 123
     }
   },
