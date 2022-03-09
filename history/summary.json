@@ -32,10 +32,10 @@
     "url": "https://rothcoaching.com",
     "icon": "https://favicons.githubusercontent.com/rothcoaching.com",
     "slug": "rothcoaching",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 574,
@@ -44,6 +44,7 @@
     "timeMonth": 591,
     "timeYear": 566,
     "dailyMinutesDown": {
+      "2022-03-09": 2,
       "2021-12-30": 123
     }
   },
@@ -52,9 +53,9 @@
     "url": "https://rothcoaching-challenges.com/",
     "icon": "https://favicons.githubusercontent.com/rothcoaching-challenges.com",
     "slug": "rothcoaching-challenges",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -64,6 +65,7 @@
     "timeMonth": 607,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2022-03-09": 0,
       "2021-12-30": 123
     }
   },
