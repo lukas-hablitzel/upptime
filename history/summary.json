@@ -94,10 +94,10 @@
     "url": "https://kokeshi.ai",
     "icon": "https://favicons.githubusercontent.com/kokeshi.ai",
     "slug": "kokeshi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 664,
@@ -105,17 +105,19 @@
     "timeWeek": 538,
     "timeMonth": 582,
     "timeYear": 637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 2
+    }
   },
   {
     "name": "Lukas Hablitzel",
     "url": "https://lukas-hablitzel.com",
     "icon": "https://favicons.githubusercontent.com/lukas-hablitzel.com",
     "slug": "lukas-hablitzel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 914,
@@ -123,17 +125,19 @@
     "timeWeek": 819,
     "timeMonth": 873,
     "timeYear": 898,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 1
+    }
   },
   {
     "name": "ØNEsquared",
     "url": "https://one-squared.com",
     "icon": "https://favicons.githubusercontent.com/one-squared.com",
     "slug": "on-esquared",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 562,
@@ -141,16 +145,18 @@
     "timeWeek": 493,
     "timeMonth": 536,
     "timeYear": 550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 1
+    }
   },
   {
     "name": "Next Test",
     "url": "https://test4.one-squared.com",
     "icon": "https://favicons.githubusercontent.com/test4.one-squared.com",
     "slug": "next-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,6 +165,8 @@
     "timeWeek": 2350,
     "timeMonth": 2173,
     "timeYear": 2234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 0
+    }
   }
 ]
