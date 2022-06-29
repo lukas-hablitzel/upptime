@@ -161,18 +161,19 @@
     "url": "https://test4.one-squared.com",
     "icon": "https://favicons.githubusercontent.com/test4.one-squared.com",
     "slug": "next-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2220,
+    "time": 2218,
     "timeDay": 2013,
     "timeWeek": 3116,
     "timeMonth": 2750,
     "timeYear": 2212,
     "dailyMinutesDown": {
+      "2022-06-29": 0,
       "2022-03-23": 17
     }
   }
