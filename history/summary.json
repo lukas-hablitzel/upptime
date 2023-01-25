@@ -27,10 +27,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching.com.ico",
     "slug": "rothcoaching",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 584,
     "timeDay": 2056,
@@ -38,7 +38,6 @@
     "timeMonth": 659,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2023-01-25": 11,
       "2022-03-28": 18,
       "2022-03-27": 48
     }
@@ -48,11 +47,11 @@
     "url": "https://rothcoaching-challenges.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 705,
     "timeDay": 1294,
@@ -60,6 +59,7 @@
     "timeMonth": 736,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2022-03-28": 18,
       "2022-03-27": 32
     }
@@ -216,7 +216,7 @@
     "timeMonth": 400,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2023-01-25": 459,
+      "2023-01-25": 471,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -355,9 +355,9 @@
     "slug": "next-test",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.79%",
     "time": 2230,
     "timeDay": 1510,
@@ -365,7 +365,7 @@
     "timeMonth": 2417,
     "timeYear": 2341,
     "dailyMinutesDown": {
-      "2023-01-25": 11,
+      "2023-01-25": 24,
       "2022-10-07": 719,
       "2022-10-06": 323,
       "2022-06-29": 39,
