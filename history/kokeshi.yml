@@ -1,7 +1,7 @@
 url: https://kokeshi.ai
-status: up
-code: 200
-responseTime: 658
-lastUpdated: 2024-01-16T23:08:13.171Z
+status: down
+code: 500
+responseTime: 2901
+lastUpdated: 2024-01-17T21:39:31.016Z
 startTime: 2020-12-10T22:09:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
