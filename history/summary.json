@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 829,
-    "timeDay": 521,
-    "timeWeek": 578,
-    "timeMonth": 679,
+    "timeDay": 734,
+    "timeWeek": 598,
+    "timeMonth": 681,
     "timeYear": 814,
     "dailyMinutesDown": {
       "2023-09-01": 17
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 357,
-    "timeDay": 143,
-    "timeWeek": 158,
-    "timeMonth": 169,
+    "timeDay": 544,
+    "timeWeek": 222,
+    "timeMonth": 182,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "62.90%",
+    "uptime": "62.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 821,
+    "time": 832,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-19": 31,
+      "2024-05-20": 29,
+      "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
@@ -417,8 +418,7 @@
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
-      "2023-05-22": 1440,
-      "2023-05-21": 1440
+      "2023-05-22": 1440
     }
   },
   {
@@ -433,9 +433,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 614,
-    "timeDay": 406,
-    "timeWeek": 516,
-    "timeMonth": 592,
+    "timeDay": 569,
+    "timeWeek": 527,
+    "timeMonth": 594,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2024-05-01": 23,
@@ -450,16 +450,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kokeshi.ai.ico",
     "slug": "kokeshi",
     "status": "up",
-    "uptime": "92.69%",
+    "uptime": "92.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 997,
-    "timeDay": 672,
-    "timeWeek": 790,
-    "timeMonth": 832,
-    "timeYear": 997,
+    "timeDay": 1308,
+    "timeWeek": 875,
+    "timeMonth": 854,
+    "timeYear": 998,
     "dailyMinutesDown": {
       "2024-01-06": 19
     }
@@ -470,7 +470,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "53.47%",
+    "uptime": "53.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -481,7 +481,8 @@
     "timeMonth": 0,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2024-05-19": 31,
+      "2024-05-20": 29,
+      "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
@@ -844,8 +845,7 @@
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
-      "2023-05-22": 1440,
-      "2023-05-21": 1440
+      "2023-05-22": 1440
     }
   },
   {
@@ -860,9 +860,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 581,
-    "timeDay": 396,
-    "timeWeek": 485,
-    "timeMonth": 535,
+    "timeDay": 673,
+    "timeWeek": 522,
+    "timeMonth": 540,
     "timeYear": 562,
     "dailyMinutesDown": {}
   },
@@ -872,18 +872,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "71.00%",
+    "uptime": "70.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.50%",
-    "time": 1902,
+    "uptimeYear": "0.23%",
+    "time": 1896,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1074,
+    "timeYear": 1052,
     "dailyMinutesDown": {
-      "2024-05-19": 31,
+      "2024-05-20": 29,
+      "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
@@ -1246,8 +1247,7 @@
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
-      "2023-05-22": 1440,
-      "2023-05-21": 218
+      "2023-05-22": 1440
     }
   }
 ]
