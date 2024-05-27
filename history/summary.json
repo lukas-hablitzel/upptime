@@ -11,10 +11,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 828,
-    "timeDay": 615,
-    "timeWeek": 695,
-    "timeMonth": 662,
-    "timeYear": 813,
+    "timeDay": 611,
+    "timeWeek": 680,
+    "timeMonth": 659,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2024-05-24": 27,
       "2023-09-01": 17
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 156,
-    "timeWeek": 227,
+    "time": 345,
+    "timeDay": 175,
+    "timeWeek": 174,
     "timeMonth": 180,
-    "timeYear": 262,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   },
   {
@@ -44,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "62.55%",
+    "uptime": "62.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 840,
+    "time": 839,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-26": 31,
+      "2024-05-27": 29,
+      "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -418,8 +419,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   },
   {
@@ -434,9 +434,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 614,
-    "timeDay": 585,
-    "timeWeek": 597,
-    "timeMonth": 587,
+    "timeDay": 581,
+    "timeWeek": 599,
+    "timeMonth": 590,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2024-05-20": 17,
@@ -452,16 +452,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kokeshi.ai.ico",
     "slug": "kokeshi",
     "status": "up",
-    "uptime": "92.73%",
+    "uptime": "92.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 995,
-    "timeDay": 902,
-    "timeWeek": 899,
-    "timeMonth": 834,
-    "timeYear": 997,
+    "timeDay": 854,
+    "timeWeek": 834,
+    "timeMonth": 835,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2024-01-06": 19
     }
@@ -472,7 +472,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "53.17%",
+    "uptime": "53.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -481,9 +481,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 420,
+    "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-05-26": 31,
+      "2024-05-27": 29,
+      "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -846,8 +847,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   },
   {
@@ -862,9 +862,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 550,
-    "timeWeek": 535,
-    "timeMonth": 516,
+    "timeDay": 527,
+    "timeWeek": 514,
+    "timeMonth": 518,
     "timeYear": 562,
     "dailyMinutesDown": {}
   },
@@ -874,18 +874,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "70.60%",
+    "uptime": "70.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1872,
+    "time": 1866,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1074,
+    "timeYear": 1077,
     "dailyMinutesDown": {
-      "2024-05-26": 31,
+      "2024-05-27": 29,
+      "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -1248,8 +1249,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   }
 ]
