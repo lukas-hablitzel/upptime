@@ -11,10 +11,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 815,
-    "timeDay": 543,
-    "timeWeek": 667,
-    "timeMonth": 708,
-    "timeYear": 810,
+    "timeDay": 570,
+    "timeWeek": 663,
+    "timeMonth": 713,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2024-05-24": 27,
       "2023-09-01": 17
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 244,
-    "timeWeek": 205,
+    "timeDay": 195,
+    "timeWeek": 211,
     "timeMonth": 188,
-    "timeYear": 239,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -44,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "61.48%",
+    "uptime": "61.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 782,
+    "time": 766,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-17": 31,
+      "2024-06-18": 30,
+      "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -418,8 +419,7 @@
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
-      "2023-06-20": 1440,
-      "2023-06-19": 1440
+      "2023-06-20": 1440
     }
   },
   {
@@ -434,10 +434,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 615,
-    "timeDay": 463,
-    "timeWeek": 652,
-    "timeMonth": 623,
-    "timeYear": 615,
+    "timeDay": 526,
+    "timeWeek": 645,
+    "timeMonth": 625,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2024-05-20": 17,
       "2024-05-01": 23,
@@ -457,10 +457,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 993,
-    "timeDay": 851,
-    "timeWeek": 878,
-    "timeMonth": 889,
-    "timeYear": 993,
+    "timeDay": 732,
+    "timeWeek": 860,
+    "timeMonth": 891,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2024-01-06": 19
     }
@@ -471,18 +471,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "52.26%",
+    "uptime": "52.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 420,
-    "timeDay": 364,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 421,
+    "time": 419,
+    "timeDay": 393,
+    "timeWeek": 411,
+    "timeMonth": 411,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2024-06-17": 31,
+      "2024-06-18": 30,
+      "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -845,8 +846,7 @@
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
-      "2023-06-20": 1440,
-      "2023-06-19": 1440
+      "2023-06-20": 1440
     }
   },
   {
@@ -861,9 +861,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 566,
-    "timeDay": 472,
-    "timeWeek": 547,
-    "timeMonth": 560,
+    "timeDay": 491,
+    "timeWeek": 542,
+    "timeMonth": 564,
     "timeYear": 562,
     "dailyMinutesDown": {}
   },
@@ -873,18 +873,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "69.39%",
+    "uptime": "69.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1765,
+    "time": 1759,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1222,
+    "timeYear": 1230,
     "dailyMinutesDown": {
-      "2024-06-17": 31,
+      "2024-06-18": 30,
+      "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -1247,8 +1248,7 @@
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
-      "2023-06-20": 1440,
-      "2023-06-19": 1440
+      "2023-06-20": 1440
     }
   }
 ]
