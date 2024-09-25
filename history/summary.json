@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "57.04%",
+    "uptime": "57.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-25": 35,
+      "2024-09-25": 200,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
@@ -448,10 +448,10 @@
     "url": "https://kokeshi.ai",
     "icon": "https://icons.duckduckgo.com/ip3/kokeshi.ai.ico",
     "slug": "kokeshi",
-    "status": "up",
+    "status": "down",
     "uptime": "93.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 991,
@@ -460,6 +460,7 @@
     "timeMonth": 960,
     "timeYear": 996,
     "dailyMinutesDown": {
+      "2024-09-25": 1,
       "2024-01-06": 19
     }
   },
@@ -469,7 +470,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "48.49%",
+    "uptime": "48.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -480,7 +481,7 @@
     "timeMonth": 457,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-09-25": 36,
+      "2024-09-25": 200,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
@@ -852,10 +853,10 @@
     "url": "https://one-squared.com",
     "icon": "https://icons.duckduckgo.com/ip3/one-squared.com.ico",
     "slug": "on-esquared",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 573,
@@ -863,7 +864,9 @@
     "timeWeek": 655,
     "timeMonth": 587,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-25": 1
+    }
   },
   {
     "name": "Next Test",
@@ -871,7 +874,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "64.38%",
+    "uptime": "64.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -882,7 +885,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-25": 36,
+      "2024-09-25": 200,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
