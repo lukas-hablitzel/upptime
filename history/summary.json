@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 783,
-    "timeDay": 596,
-    "timeWeek": 749,
-    "timeMonth": 1059,
+    "timeDay": 626,
+    "timeWeek": 714,
+    "timeMonth": 1050,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2024-11-17": 79,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 233,
-    "timeDay": 315,
-    "timeWeek": 283,
-    "timeMonth": 273,
+    "timeDay": 258,
+    "timeWeek": 282,
+    "timeMonth": 270,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2024-11-21": 15,
@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "53.37%",
+    "uptime": "53.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-29": 41,
+      "2024-12-30": 38,
+      "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -421,8 +422,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -437,9 +437,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 632,
-    "timeDay": 376,
-    "timeWeek": 631,
-    "timeMonth": 634,
+    "timeDay": 551,
+    "timeWeek": 622,
+    "timeMonth": 620,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2024-10-31": 26,
@@ -454,15 +454,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kokeshi.ai.ico",
     "slug": "kokeshi",
     "status": "up",
-    "uptime": "93.79%",
+    "uptime": "93.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1002,
-    "timeDay": 667,
-    "timeWeek": 1006,
-    "timeMonth": 1004,
+    "timeDay": 807,
+    "timeWeek": 982,
+    "timeMonth": 990,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2024-10-22": 20,
@@ -477,18 +477,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "45.37%",
+    "uptime": "45.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 458,
-    "timeDay": 417,
-    "timeWeek": 487,
-    "timeMonth": 470,
+    "timeDay": 436,
+    "timeWeek": 488,
+    "timeMonth": 465,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2024-12-29": 41,
+      "2024-12-30": 38,
+      "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -851,8 +852,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -867,9 +867,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 575,
-    "timeDay": 483,
-    "timeWeek": 601,
-    "timeMonth": 588,
+    "timeDay": 474,
+    "timeWeek": 598,
+    "timeMonth": 580,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2024-10-09": 28,
@@ -882,18 +882,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "60.25%",
+    "uptime": "60.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1391,
+    "time": 1384,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-29": 41,
+      "2024-12-30": 38,
+      "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -1256,8 +1257,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   }
 ]
