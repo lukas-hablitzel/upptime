@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 784,
-    "timeDay": 774,
-    "timeWeek": 777,
-    "timeMonth": 1071,
-    "timeYear": 767,
+    "timeDay": 634,
+    "timeWeek": 762,
+    "timeMonth": 1062,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2024-11-17": 79,
       "2024-05-24": 27
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 192,
-    "timeWeek": 259,
-    "timeMonth": 287,
+    "timeDay": 211,
+    "timeWeek": 261,
+    "timeMonth": 286,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2024-11-21": 15,
@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "52.87%",
+    "uptime": "52.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 40,
+      "2025-01-13": 39,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -421,8 +422,7 @@
       "2024-01-18": 1440,
       "2024-01-17": 1440,
       "2024-01-16": 1440,
-      "2024-01-15": 1440,
-      "2024-01-14": 1440
+      "2024-01-15": 1440
     }
   },
   {
@@ -437,10 +437,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 634,
-    "timeDay": 629,
-    "timeWeek": 689,
-    "timeMonth": 663,
-    "timeYear": 636,
+    "timeDay": 460,
+    "timeWeek": 679,
+    "timeMonth": 653,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2024-10-31": 26,
       "2024-08-31": 18,
@@ -454,15 +454,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kokeshi.ai.ico",
     "slug": "kokeshi",
     "status": "up",
-    "uptime": "93.85%",
+    "uptime": "93.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1005,
-    "timeDay": 971,
-    "timeWeek": 1014,
-    "timeMonth": 1019,
+    "time": 1004,
+    "timeDay": 907,
+    "timeWeek": 1026,
+    "timeMonth": 1008,
     "timeYear": 1040,
     "dailyMinutesDown": {
       "2024-10-22": 20,
@@ -476,18 +476,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "44.95%",
+    "uptime": "44.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 461,
     "timeDay": 0,
-    "timeWeek": 484,
-    "timeMonth": 479,
+    "timeWeek": 494,
+    "timeMonth": 475,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-01-12": 40,
+      "2025-01-13": 39,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -850,8 +851,7 @@
       "2024-01-18": 1440,
       "2024-01-17": 1440,
       "2024-01-16": 1440,
-      "2024-01-15": 1440,
-      "2024-01-14": 1440
+      "2024-01-15": 1440
     }
   },
   {
@@ -866,9 +866,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 576,
-    "timeDay": 578,
-    "timeWeek": 623,
-    "timeMonth": 601,
+    "timeDay": 537,
+    "timeWeek": 624,
+    "timeMonth": 595,
     "timeYear": 584,
     "dailyMinutesDown": {
       "2024-10-09": 28,
@@ -881,18 +881,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "59.68%",
+    "uptime": "59.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1410,
+    "time": 1393,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 40,
+      "2025-01-13": 39,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -1255,8 +1256,7 @@
       "2024-01-18": 1440,
       "2024-01-17": 1440,
       "2024-01-16": 1440,
-      "2024-01-15": 1440,
-      "2024-01-14": 1440
+      "2024-01-15": 1440
     }
   }
 ]
