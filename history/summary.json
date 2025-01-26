@@ -4,11 +4,11 @@
     "url": "https://schmidt-nagel.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schmidt-nagel.ch.ico",
     "slug": "schmidt-nagel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 772,
     "timeDay": 767,
@@ -16,7 +16,7 @@
     "timeMonth": 721,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2025-01-26": 6,
+      "2025-01-26": 0,
       "2024-11-17": 79,
       "2024-05-24": 27
     }
@@ -48,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "52.36%",
+    "uptime": "52.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-26": 1061,
+      "2025-01-26": 1158,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -488,7 +488,7 @@
     "timeMonth": 488,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-01-26": 1061,
+      "2025-01-26": 1158,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -893,7 +893,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-26": 1062,
+      "2025-01-26": 1159,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
