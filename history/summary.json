@@ -6,17 +6,16 @@
     "slug": "schmidt-nagel",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 772,
-    "timeDay": 715,
-    "timeWeek": 677,
-    "timeMonth": 715,
-    "timeYear": 762,
+    "time": 771,
+    "timeDay": 685,
+    "timeWeek": 674,
+    "timeMonth": 703,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2025-01-26": 6,
       "2024-11-17": 79,
       "2024-05-24": 27
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 191,
-    "timeWeek": 228,
-    "timeMonth": 268,
+    "timeDay": 207,
+    "timeWeek": 225,
+    "timeMonth": 265,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2024-11-21": 15,
@@ -59,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-26": 1164,
+      "2025-01-27": 37,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -422,8 +422,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   },
   {
@@ -438,9 +437,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 634,
-    "timeDay": 613,
-    "timeWeek": 589,
-    "timeMonth": 637,
+    "timeDay": 562,
+    "timeWeek": 594,
+    "timeMonth": 629,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2024-10-31": 26,
@@ -460,10 +459,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1003,
-    "timeDay": 1074,
-    "timeWeek": 938,
-    "timeMonth": 977,
+    "time": 1002,
+    "timeDay": 807,
+    "timeWeek": 944,
+    "timeMonth": 965,
     "timeYear": 965,
     "dailyMinutesDown": {
       "2024-10-22": 20,
@@ -477,7 +476,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "44.51%",
+    "uptime": "44.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -485,10 +484,11 @@
     "time": 462,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 488,
+    "timeMonth": 483,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-01-26": 1164,
+      "2025-01-27": 37,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -851,8 +851,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   },
   {
@@ -867,9 +866,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 576,
-    "timeDay": 564,
-    "timeWeek": 542,
-    "timeMonth": 596,
+    "timeDay": 466,
+    "timeWeek": 539,
+    "timeMonth": 586,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2024-10-09": 28,
@@ -882,7 +881,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "59.10%",
+    "uptime": "59.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -893,7 +892,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-26": 1164,
+      "2025-01-27": 37,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -1256,8 +1256,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   }
 ]
