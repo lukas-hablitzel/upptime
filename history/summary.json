@@ -4,9 +4,9 @@
     "url": "https://schmidt-nagel.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schmidt-nagel.ch.ico",
     "slug": "schmidt-nagel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 703,
     "timeYear": 761,
     "dailyMinutesDown": {
+      "2025-01-27": 0,
       "2024-11-17": 79,
       "2024-05-24": 27
     }
@@ -47,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "52.35%",
+    "uptime": "52.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -58,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 37,
+      "2025-01-27": 348,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -476,7 +477,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "44.50%",
+    "uptime": "44.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -487,7 +488,7 @@
     "timeMonth": 483,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-01-27": 37,
+      "2025-01-27": 348,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -881,7 +882,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "59.09%",
+    "uptime": "59.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -892,7 +893,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 37,
+      "2025-01-27": 348,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
