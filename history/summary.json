@@ -6,17 +6,17 @@
     "slug": "schmidt-nagel",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.95%",
     "time": 775,
-    "timeDay": 597,
+    "timeDay": 627,
     "timeWeek": 626,
-    "timeMonth": 683,
-    "timeYear": 758,
+    "timeMonth": 678,
+    "timeYear": 757,
     "dailyMinutesDown": {
-      "2025-02-10": 26,
+      "2025-02-10": 18,
       "2025-02-09": 18,
       "2025-02-06": 17,
       "2025-02-02": 83,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 539,
+    "timeDay": 210,
     "timeWeek": 284,
-    "timeMonth": 258,
+    "timeMonth": 252,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2024-11-21": 15,
@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "51.84%",
+    "uptime": "51.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -62,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-10": 1006,
+      "2025-02-11": 36,
+      "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -425,8 +426,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   },
   {
@@ -441,10 +441,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 635,
-    "timeDay": 775,
-    "timeWeek": 662,
-    "timeMonth": 641,
-    "timeYear": 641,
+    "timeDay": 550,
+    "timeWeek": 618,
+    "timeMonth": 633,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2024-10-31": 26,
       "2024-08-31": 18,
@@ -464,10 +464,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1005,
-    "timeDay": 1274,
-    "timeWeek": 1033,
-    "timeMonth": 976,
-    "timeYear": 971,
+    "timeDay": 725,
+    "timeWeek": 1022,
+    "timeMonth": 961,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2024-10-22": 20,
       "2024-10-09": 28,
@@ -480,7 +480,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "44.07%",
+    "uptime": "44.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -491,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-02-10": 1006,
+      "2025-02-11": 36,
+      "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -854,8 +855,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   },
   {
@@ -870,9 +870,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 578,
-    "timeDay": 820,
-    "timeWeek": 602,
-    "timeMonth": 598,
+    "timeDay": 523,
+    "timeWeek": 601,
+    "timeMonth": 592,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2024-10-09": 28,
@@ -885,7 +885,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "58.52%",
+    "uptime": "58.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -896,7 +896,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-10": 1006,
+      "2025-02-11": 36,
+      "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -1259,8 +1260,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   }
 ]
