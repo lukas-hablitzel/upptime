@@ -6,13 +6,13 @@
     "slug": "schmidt-nagel",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.08%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.92%",
     "time": 749,
-    "timeDay": 582,
-    "timeWeek": 734,
+    "timeDay": 546,
+    "timeWeek": 629,
     "timeMonth": 778,
     "timeYear": 753,
     "dailyMinutesDown": {
@@ -44,8 +44,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 296,
-    "timeDay": 339,
-    "timeWeek": 361,
+    "timeDay": 311,
+    "timeWeek": 343,
     "timeMonth": 431,
     "timeYear": 330,
     "dailyMinutesDown": {
@@ -60,7 +60,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "47.21%",
+    "uptime": "47.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -71,7 +71,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 44,
+      "2025-07-11": 45,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -434,8 +435,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   },
   {
@@ -450,10 +450,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 651,
-    "timeDay": 510,
-    "timeWeek": 676,
-    "timeMonth": 687,
-    "timeYear": 661,
+    "timeDay": 710,
+    "timeWeek": 644,
+    "timeMonth": 690,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2024-10-31": 26,
       "2024-08-31": 18
@@ -465,16 +465,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kokeshi.ai.ico",
     "slug": "kokeshi",
     "status": "up",
-    "uptime": "93.34%",
+    "uptime": "93.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.26%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.64%",
     "time": 942,
-    "timeDay": 900,
-    "timeWeek": 1004,
-    "timeMonth": 1092,
-    "timeYear": 952,
+    "timeDay": 954,
+    "timeWeek": 966,
+    "timeMonth": 1098,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2025-06-10": 1243,
       "2025-06-09": 1440,
@@ -508,7 +508,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "40.13%",
+    "uptime": "40.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -519,7 +519,8 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-07-10": 44,
+      "2025-07-11": 45,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -882,8 +883,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   },
   {
@@ -897,10 +897,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 590,
-    "timeDay": 532,
-    "timeWeek": 583,
-    "timeMonth": 608,
+    "time": 589,
+    "timeDay": 459,
+    "timeWeek": 541,
+    "timeMonth": 607,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2024-10-09": 28,
@@ -913,7 +913,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "53.29%",
+    "uptime": "53.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -924,7 +924,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 44,
+      "2025-07-11": 45,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -1287,8 +1288,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   }
 ]
