@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 747,
-    "timeDay": 863,
-    "timeWeek": 726,
-    "timeMonth": 724,
-    "timeYear": 746,
+    "time": 746,
+    "timeDay": 804,
+    "timeWeek": 777,
+    "timeMonth": 733,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2025-07-29": 19,
       "2025-07-09": 57,
@@ -45,9 +45,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 309,
-    "timeDay": 354,
-    "timeWeek": 374,
-    "timeMonth": 365,
+    "timeDay": 420,
+    "timeWeek": 392,
+    "timeMonth": 368,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2025-06-19": 20,
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "46.17%",
+    "uptime": "46.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 1256,
+      "2025-08-17": 48,
+      "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -435,8 +436,7 @@
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
-      "2024-08-18": 1440,
-      "2024-08-17": 1440
+      "2024-08-18": 1440
     }
   },
   {
@@ -450,11 +450,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 650,
-    "timeDay": 515,
-    "timeWeek": 662,
-    "timeMonth": 594,
-    "timeYear": 651,
+    "time": 651,
+    "timeDay": 806,
+    "timeWeek": 700,
+    "timeMonth": 602,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2024-10-31": 26,
       "2024-08-31": 18
@@ -467,17 +467,16 @@
     "slug": "kokeshi",
     "status": "up",
     "uptime": "93.48%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "96.34%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "94.57%",
     "time": 1045,
-    "timeDay": 1037,
-    "timeWeek": 4656,
-    "timeMonth": 2130,
-    "timeYear": 1074,
+    "timeDay": 1043,
+    "timeWeek": 4690,
+    "timeMonth": 2174,
+    "timeYear": 1075,
     "dailyMinutesDown": {
-      "2025-08-16": 5,
       "2025-08-12": 363,
       "2025-06-10": 1243,
       "2025-06-09": 1440,
@@ -511,7 +510,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "39.25%",
+    "uptime": "39.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -520,9 +519,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 461,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-08-16": 1256,
+      "2025-08-17": 49,
+      "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -885,8 +885,7 @@
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
-      "2024-08-18": 1440,
-      "2024-08-17": 1440
+      "2024-08-18": 1440
     }
   },
   {
@@ -900,11 +899,11 @@
     "uptimeWeek": "97.04%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.93%",
-    "time": 664,
-    "timeDay": 799,
-    "timeWeek": 3650,
-    "timeMonth": 1583,
-    "timeYear": 688,
+    "time": 665,
+    "timeDay": 908,
+    "timeWeek": 3682,
+    "timeMonth": 1595,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-08-12": 299,
       "2024-10-09": 28,
@@ -928,7 +927,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 1256,
+      "2025-08-17": 49,
+      "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -1291,8 +1291,7 @@
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
-      "2024-08-18": 1440,
-      "2024-08-17": 1440
+      "2024-08-18": 1440
     }
   }
 ]
