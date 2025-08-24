@@ -10,11 +10,11 @@
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.90%",
-    "time": 747,
-    "timeDay": 667,
-    "timeWeek": 713,
-    "timeMonth": 705,
-    "timeYear": 744,
+    "time": 748,
+    "timeDay": 1015,
+    "timeWeek": 725,
+    "timeMonth": 717,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2025-08-18": 103,
       "2025-08-17": 1,
@@ -42,17 +42,16 @@
     "slug": "rothcoaching",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 311,
-    "timeDay": 352,
-    "timeWeek": 350,
-    "timeMonth": 359,
+    "time": 312,
+    "timeDay": 357,
+    "timeWeek": 340,
+    "timeMonth": 363,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2025-08-23": 6,
       "2025-06-19": 20,
       "2024-11-21": 15,
       "2024-10-22": 20
@@ -75,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-23": 1186,
+      "2025-08-24": 46,
+      "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -438,8 +438,7 @@
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
-      "2024-08-25": 1440,
-      "2024-08-24": 1440
+      "2024-08-25": 1440
     }
   },
   {
@@ -454,10 +453,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 651,
-    "timeDay": 588,
-    "timeWeek": 613,
-    "timeMonth": 601,
-    "timeYear": 647,
+    "timeDay": 886,
+    "timeWeek": 624,
+    "timeMonth": 612,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2024-10-31": 26,
       "2024-08-31": 18
@@ -470,17 +469,16 @@
     "slug": "kokeshi",
     "status": "up",
     "uptime": "93.50%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "94.57%",
-    "time": 1047,
-    "timeDay": 888,
-    "timeWeek": 989,
-    "timeMonth": 2140,
-    "timeYear": 1073,
+    "time": 1049,
+    "timeDay": 1082,
+    "timeWeek": 1019,
+    "timeMonth": 2153,
+    "timeYear": 1075,
     "dailyMinutesDown": {
-      "2025-08-23": 6,
       "2025-08-12": 363,
       "2025-06-10": 1243,
       "2025-06-09": 1440,
@@ -514,7 +512,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "39.09%",
+    "uptime": "39.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -523,9 +521,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 459,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-08-23": 1186,
+      "2025-08-24": 46,
+      "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -888,8 +887,7 @@
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
-      "2024-08-25": 1440,
-      "2024-08-24": 1440
+      "2024-08-25": 1440
     }
   },
   {
@@ -903,11 +901,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.93%",
-    "time": 666,
-    "timeDay": 650,
+    "time": 667,
+    "timeDay": 908,
     "timeWeek": 681,
-    "timeMonth": 1608,
-    "timeYear": 689,
+    "timeMonth": 1621,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2025-08-12": 299,
       "2024-10-09": 28,
@@ -920,7 +918,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "51.90%",
+    "uptime": "51.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -931,7 +929,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-23": 1186,
+      "2025-08-24": 46,
+      "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -1294,8 +1293,7 @@
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
-      "2024-08-25": 1440,
-      "2024-08-24": 1440
+      "2024-08-25": 1440
     }
   }
 ]
