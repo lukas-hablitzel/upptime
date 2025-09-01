@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/schmidt-nagel.ch.ico",
     "slug": "schmidt-nagel",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.90%",
     "time": 750,
-    "timeDay": 805,
-    "timeWeek": 736,
-    "timeMonth": 719,
+    "timeDay": 514,
+    "timeWeek": 749,
+    "timeMonth": 716,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2025-08-24": 18,
@@ -48,9 +48,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.97%",
     "time": 307,
-    "timeDay": 324,
-    "timeWeek": 426,
-    "timeMonth": 397,
+    "timeDay": 329,
+    "timeWeek": 423,
+    "timeMonth": 390,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2025-08-31": 38,
@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "45.78%",
+    "uptime": "45.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -79,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-31": 616,
+      "2025-09-01": 50,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -442,8 +443,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   },
   {
@@ -456,11 +456,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 651,
-    "timeDay": 451,
-    "timeWeek": 593,
-    "timeMonth": 609,
+    "timeDay": 575,
+    "timeWeek": 596,
+    "timeMonth": 613,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2024-10-31": 26
@@ -478,9 +478,9 @@
     "uptimeMonth": "98.94%",
     "uptimeYear": "94.55%",
     "time": 1048,
-    "timeDay": 1005,
-    "timeWeek": 1346,
-    "timeMonth": 1958,
+    "timeDay": 1018,
+    "timeWeek": 1348,
+    "timeMonth": 1956,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2025-08-31": 36,
@@ -520,7 +520,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "38.91%",
+    "uptime": "38.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -529,9 +529,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 464,
+    "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-08-31": 616,
+      "2025-09-01": 51,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -894,8 +895,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   },
   {
@@ -910,9 +910,9 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.93%",
     "time": 669,
-    "timeDay": 445,
-    "timeWeek": 626,
-    "timeMonth": 1635,
+    "timeDay": 614,
+    "timeWeek": 638,
+    "timeMonth": 1637,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2025-08-12": 299,
@@ -926,7 +926,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "51.67%",
+    "uptime": "51.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -937,7 +937,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-31": 616,
+      "2025-09-01": 51,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -1300,8 +1301,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   }
 ]
