@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.90%",
-    "time": 751,
-    "timeDay": 918,
-    "timeWeek": 752,
-    "timeMonth": 741,
-    "timeYear": 747,
+    "time": 752,
+    "timeDay": 1169,
+    "timeWeek": 829,
+    "timeMonth": 754,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2025-08-24": 18,
       "2025-08-18": 103,
@@ -43,17 +43,16 @@
     "slug": "rothcoaching",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.96%",
-    "time": 315,
-    "timeDay": 260,
-    "timeWeek": 474,
-    "timeMonth": 430,
-    "timeYear": 362,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.97%",
+    "time": 316,
+    "timeDay": 434,
+    "timeWeek": 498,
+    "timeMonth": 434,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2025-09-06": 6,
       "2025-09-02": 23,
       "2025-08-31": 38,
       "2025-08-30": 42,
@@ -70,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "45.61%",
+    "uptime": "45.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -81,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 1076,
+      "2025-09-07": 43,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -444,8 +444,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   },
   {
@@ -460,9 +459,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 652,
-    "timeDay": 503,
-    "timeWeek": 617,
-    "timeMonth": 635,
+    "timeDay": 624,
+    "timeWeek": 641,
+    "timeMonth": 636,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2024-10-31": 26
@@ -475,17 +474,16 @@
     "slug": "kokeshi",
     "status": "up",
     "uptime": "93.55%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "98.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "94.55%",
     "time": 1055,
-    "timeDay": 1161,
-    "timeWeek": 1144,
-    "timeMonth": 1888,
-    "timeYear": 1104,
+    "timeDay": 1203,
+    "timeWeek": 1168,
+    "timeMonth": 1890,
+    "timeYear": 1105,
     "dailyMinutesDown": {
-      "2025-09-06": 6,
       "2025-09-02": 23,
       "2025-08-31": 36,
       "2025-08-30": 43,
@@ -535,7 +533,8 @@
     "timeMonth": 0,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2025-09-06": 1076,
+      "2025-09-07": 43,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -898,8 +897,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   },
   {
@@ -914,9 +912,9 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.93%",
     "time": 670,
-    "timeDay": 631,
-    "timeWeek": 646,
-    "timeMonth": 1658,
+    "timeDay": 697,
+    "timeWeek": 682,
+    "timeMonth": 1660,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2025-08-12": 299,
@@ -930,7 +928,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "51.48%",
+    "uptime": "51.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -941,7 +939,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 1076,
+      "2025-09-07": 43,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -1304,8 +1303,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   }
 ]
