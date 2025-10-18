@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 759,
-    "timeDay": 542,
-    "timeWeek": 833,
+    "timeDay": 993,
+    "timeWeek": 856,
     "timeMonth": 820,
-    "timeYear": 752,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2025-08-24": 18,
       "2025-08-18": 103,
@@ -44,14 +44,14 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 346,
-    "timeDay": 325,
-    "timeWeek": 516,
-    "timeMonth": 556,
-    "timeYear": 384,
+    "timeDay": 475,
+    "timeWeek": 506,
+    "timeMonth": 549,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2025-10-10": 26,
       "2025-09-02": 23,
@@ -70,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "44.57%",
+    "uptime": "44.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -81,7 +81,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 40,
+      "2025-10-18": 37,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -444,8 +445,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   },
   {
@@ -459,11 +459,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 653,
-    "timeDay": 439,
-    "timeWeek": 660,
-    "timeMonth": 648,
-    "timeYear": 646,
+    "time": 654,
+    "timeDay": 869,
+    "timeWeek": 642,
+    "timeMonth": 652,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2025-09-30": 18,
       "2024-10-31": 26
@@ -477,14 +477,14 @@
     "status": "up",
     "uptime": "93.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "94.55%",
-    "time": 1093,
-    "timeDay": 863,
-    "timeWeek": 1204,
-    "timeMonth": 1314,
-    "timeYear": 1134,
+    "time": 1095,
+    "timeDay": 1713,
+    "timeWeek": 1219,
+    "timeMonth": 1305,
+    "timeYear": 1136,
     "dailyMinutesDown": {
       "2025-10-10": 26,
       "2025-09-02": 23,
@@ -523,7 +523,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "37.89%",
+    "uptime": "37.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -532,9 +532,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 461,
+    "timeYear": 462,
     "dailyMinutesDown": {
-      "2025-10-17": 40,
+      "2025-10-18": 37,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -897,8 +898,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   },
   {
@@ -913,10 +913,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 680,
-    "timeDay": 735,
-    "timeWeek": 668,
-    "timeMonth": 679,
-    "timeYear": 702,
+    "timeDay": 876,
+    "timeWeek": 699,
+    "timeMonth": 686,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2025-08-12": 299
     }
@@ -927,7 +927,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "50.31%",
+    "uptime": "50.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -938,7 +938,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 40,
+      "2025-10-18": 37,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -1301,8 +1302,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   }
 ]
