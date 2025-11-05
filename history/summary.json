@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 757,
-    "timeDay": 633,
-    "timeWeek": 808,
-    "timeMonth": 798,
-    "timeYear": 759,
+    "time": 758,
+    "timeDay": 992,
+    "timeWeek": 795,
+    "timeMonth": 799,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2025-08-24": 18,
       "2025-08-18": 103,
@@ -47,11 +47,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.96%",
-    "time": 364,
-    "timeDay": 402,
-    "timeWeek": 414,
-    "timeMonth": 544,
-    "timeYear": 395,
+    "time": 366,
+    "timeDay": 1024,
+    "timeWeek": 481,
+    "timeMonth": 549,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2025-10-20": 39,
       "2025-10-10": 26,
@@ -70,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "44.13%",
+    "uptime": "44.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -81,7 +81,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-04": 41,
+      "2025-11-05": 43,
+      "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
@@ -444,8 +445,7 @@
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
-      "2024-11-06": 1440,
-      "2024-11-05": 1440
+      "2024-11-06": 1440
     }
   },
   {
@@ -460,10 +460,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 656,
-    "timeDay": 578,
-    "timeWeek": 705,
-    "timeMonth": 652,
-    "timeYear": 651,
+    "timeDay": 870,
+    "timeWeek": 697,
+    "timeMonth": 658,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2025-09-30": 18
     }
@@ -480,10 +480,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "94.55%",
     "time": 1108,
-    "timeDay": 1100,
-    "timeWeek": 1238,
-    "timeMonth": 1176,
-    "timeYear": 1133,
+    "timeDay": 1317,
+    "timeWeek": 1249,
+    "timeMonth": 1177,
+    "timeYear": 1134,
     "dailyMinutesDown": {
       "2025-10-20": 44,
       "2025-10-10": 26,
@@ -522,18 +522,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "37.51%",
+    "uptime": "37.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 466,
+    "time": 467,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 471,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2025-11-04": 41,
+      "2025-11-05": 43,
+      "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
@@ -896,8 +897,7 @@
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
-      "2024-11-06": 1440,
-      "2024-11-05": 1440
+      "2024-11-06": 1440
     }
   },
   {
@@ -912,10 +912,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 682,
-    "timeDay": 698,
-    "timeWeek": 673,
-    "timeMonth": 665,
-    "timeYear": 708,
+    "timeDay": 681,
+    "timeWeek": 661,
+    "timeMonth": 661,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2025-08-12": 299
     }
@@ -926,7 +926,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "49.81%",
+    "uptime": "49.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -937,7 +937,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-04": 41,
+      "2025-11-05": 43,
+      "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
@@ -1300,8 +1301,7 @@
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
-      "2024-11-06": 1440,
-      "2024-11-05": 1440
+      "2024-11-06": 1440
     }
   }
 ]
