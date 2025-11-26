@@ -10,9 +10,9 @@
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.90%",
-    "time": 752,
-    "timeDay": 604,
-    "timeWeek": 753,
+    "time": 751,
+    "timeDay": 757,
+    "timeWeek": 767,
     "timeMonth": 756,
     "timeYear": 760,
     "dailyMinutesDown": {
@@ -45,14 +45,14 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "98.82%",
-    "uptimeWeek": "99.53%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.94%",
-    "time": 377,
-    "timeDay": 324,
-    "timeWeek": 510,
-    "timeMonth": 477,
-    "timeYear": 405,
+    "time": 378,
+    "timeDay": 477,
+    "timeWeek": 502,
+    "timeMonth": 471,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2025-11-25": 17,
       "2025-11-18": 70,
@@ -84,7 +84,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-25": 1166,
+      "2025-11-26": 42,
+      "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -447,8 +448,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -463,9 +463,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 653,
-    "timeDay": 599,
-    "timeWeek": 665,
-    "timeMonth": 678,
+    "timeDay": 562,
+    "timeWeek": 676,
+    "timeMonth": 673,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2025-11-10": 24,
@@ -478,14 +478,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/kokeshi.ai.ico",
     "slug": "kokeshi",
     "status": "up",
-    "uptime": "93.73%",
+    "uptime": "93.74%",
     "uptimeDay": "98.82%",
-    "uptimeWeek": "99.53%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "94.21%",
     "uptimeYear": "94.06%",
     "time": 1124,
-    "timeDay": 1073,
-    "timeWeek": 1228,
+    "timeDay": 1207,
+    "timeWeek": 1206,
     "timeMonth": 1260,
     "timeYear": 1151,
     "dailyMinutesDown": {
@@ -532,18 +532,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "37.06%",
+    "uptime": "37.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 468,
+    "time": 467,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 480,
+    "timeYear": 477,
     "dailyMinutesDown": {
-      "2025-11-25": 1166,
+      "2025-11-26": 42,
+      "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -906,8 +907,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -921,10 +921,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.45%",
     "uptimeYear": "99.48%",
-    "time": 684,
-    "timeDay": 550,
-    "timeWeek": 645,
-    "timeMonth": 672,
+    "time": 685,
+    "timeDay": 758,
+    "timeWeek": 686,
+    "timeMonth": 668,
     "timeYear": 713,
     "dailyMinutesDown": {
       "2025-11-07": 983,
@@ -939,7 +939,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "49.21%",
+    "uptime": "49.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -950,7 +950,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-25": 1166,
+      "2025-11-26": 43,
+      "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -1313,8 +1314,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   }
 ]
