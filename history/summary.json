@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 763,
-    "timeDay": 934,
-    "timeWeek": 1007,
+    "time": 762,
+    "timeDay": 526,
+    "timeWeek": 764,
     "timeMonth": 833,
     "timeYear": 745,
     "dailyMinutesDown": {
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 401,
-    "timeDay": 483,
-    "timeWeek": 385,
-    "timeMonth": 389,
-    "timeYear": 423,
+    "timeDay": 303,
+    "timeWeek": 374,
+    "timeMonth": 388,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2025-12-11": 24,
       "2025-11-25": 17,
@@ -76,7 +76,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "42.58%",
+    "uptime": "42.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -87,7 +87,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 47,
+      "2026-01-09": 47,
+      "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
@@ -450,8 +451,7 @@
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
-      "2025-01-10": 1440,
-      "2025-01-09": 1440
+      "2025-01-10": 1440
     }
   },
   {
@@ -465,9 +465,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 651,
-    "timeDay": 831,
-    "timeWeek": 666,
+    "time": 650,
+    "timeDay": 530,
+    "timeWeek": 628,
     "timeMonth": 639,
     "timeYear": 654,
     "dailyMinutesDown": {
@@ -487,9 +487,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "94.06%",
     "time": 1138,
-    "timeDay": 1410,
-    "timeWeek": 1193,
-    "timeMonth": 1098,
+    "timeDay": 986,
+    "timeWeek": 1149,
+    "timeMonth": 1101,
     "timeYear": 1163,
     "dailyMinutesDown": {
       "2025-12-11": 24,
@@ -536,18 +536,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "36.19%",
+    "uptime": "36.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 461,
+    "time": 462,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 482,
+    "timeYear": 575,
     "dailyMinutesDown": {
-      "2026-01-08": 47,
+      "2026-01-09": 47,
+      "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
@@ -910,8 +911,7 @@
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
-      "2025-01-10": 1440,
-      "2025-01-09": 1440
+      "2025-01-10": 1440
     }
   },
   {
@@ -926,9 +926,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 688,
-    "timeDay": 743,
-    "timeWeek": 700,
-    "timeMonth": 631,
+    "timeDay": 625,
+    "timeWeek": 689,
+    "timeMonth": 633,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2025-11-07": 983,
@@ -943,7 +943,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "48.06%",
+    "uptime": "48.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -954,7 +954,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 47,
+      "2026-01-09": 47,
+      "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
@@ -1317,8 +1318,7 @@
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
-      "2025-01-10": 1440,
-      "2025-01-09": 1440
+      "2025-01-10": 1440
     }
   }
 ]
