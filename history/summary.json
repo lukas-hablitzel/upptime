@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.94%",
     "uptimeDay": "95.93%",
-    "uptimeWeek": "98.49%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.83%",
     "time": 760,
-    "timeDay": 771,
-    "timeWeek": 823,
-    "timeMonth": 823,
+    "timeDay": 705,
+    "timeWeek": 740,
+    "timeMonth": 820,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2026-01-27": 59,
@@ -57,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 401,
-    "timeDay": 276,
-    "timeWeek": 395,
-    "timeMonth": 377,
-    "timeYear": 429,
+    "timeDay": 508,
+    "timeWeek": 400,
+    "timeMonth": 381,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2025-12-11": 24,
       "2025-11-25": 17,
@@ -82,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "42.14%",
+    "uptime": "42.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -93,7 +93,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 257,
+      "2026-01-28": 48,
+      "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -456,8 +457,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -472,9 +472,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 651,
-    "timeDay": 537,
-    "timeWeek": 586,
-    "timeMonth": 647,
+    "timeDay": 585,
+    "timeWeek": 575,
+    "timeMonth": 646,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2025-11-10": 24,
@@ -487,15 +487,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kokeshi.ai.ico",
     "slug": "kokeshi",
     "status": "up",
-    "uptime": "93.94%",
+    "uptime": "93.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.06%",
-    "time": 1155,
-    "timeDay": 702,
-    "timeWeek": 2465,
-    "timeMonth": 1365,
+    "time": 1156,
+    "timeDay": 1038,
+    "timeWeek": 2419,
+    "timeMonth": 1369,
     "timeYear": 1190,
     "dailyMinutesDown": {
       "2025-12-11": 24,
@@ -542,7 +542,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "35.82%",
+    "uptime": "35.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -553,7 +553,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 257,
+      "2026-01-28": 48,
+      "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -916,8 +917,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -932,9 +932,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 689,
-    "timeDay": 562,
-    "timeWeek": 613,
-    "timeMonth": 643,
+    "timeDay": 608,
+    "timeWeek": 599,
+    "timeMonth": 646,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2025-11-07": 983,
@@ -949,7 +949,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "47.57%",
+    "uptime": "47.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -960,7 +960,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 257,
+      "2026-01-28": 48,
+      "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -1323,8 +1324,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   }
 ]
