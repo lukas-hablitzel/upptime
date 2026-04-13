@@ -6,15 +6,15 @@
     "slug": "schmidt-nagel",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "97.47%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.95%",
     "uptimeMonth": "99.09%",
-    "uptimeYear": "99.68%",
-    "time": 763,
-    "timeDay": 678,
-    "timeWeek": 701,
-    "timeMonth": 695,
-    "timeYear": 758,
+    "uptimeYear": "99.69%",
+    "time": 752,
+    "timeDay": 748,
+    "timeWeek": 654,
+    "timeMonth": 693,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2026-04-11": 36,
       "2026-04-09": 239,
@@ -64,9 +64,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 419,
-    "timeDay": 476,
-    "timeWeek": 464,
+    "time": 420,
+    "timeDay": 410,
+    "timeWeek": 428,
     "timeMonth": 442,
     "timeYear": 443,
     "dailyMinutesDown": {
@@ -91,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "40.52%",
+    "uptime": "40.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -102,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 74,
+      "2026-04-13": 76,
+      "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -465,8 +466,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   },
   {
@@ -481,10 +481,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 652,
-    "timeDay": 782,
-    "timeWeek": 669,
-    "timeMonth": 624,
-    "timeYear": 655,
+    "timeDay": 761,
+    "timeWeek": 624,
+    "timeMonth": 626,
+    "timeYear": 656,
     "dailyMinutesDown": {
       "2025-11-10": 24,
       "2025-09-30": 18
@@ -496,16 +496,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kokeshi.ai.ico",
     "slug": "kokeshi",
     "status": "up",
-    "uptime": "94.17%",
+    "uptime": "94.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "94.10%",
-    "time": 1168,
-    "timeDay": 1238,
-    "timeWeek": 1073,
+    "time": 1169,
+    "timeDay": 1226,
+    "timeWeek": 1077,
     "timeMonth": 1089,
-    "timeYear": 1195,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2026-03-14": 29,
       "2025-12-11": 24,
@@ -551,18 +551,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "34.45%",
+    "uptime": "34.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 479,
+    "time": 475,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 74,
+      "2026-04-13": 76,
+      "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -925,8 +926,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   },
   {
@@ -941,9 +941,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 701,
-    "timeDay": 755,
-    "timeWeek": 647,
-    "timeMonth": 639,
+    "timeDay": 737,
+    "timeWeek": 661,
+    "timeMonth": 632,
     "timeYear": 736,
     "dailyMinutesDown": {
       "2025-11-07": 983,
@@ -958,7 +958,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "45.74%",
+    "uptime": "45.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -969,7 +969,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 74,
+      "2026-04-13": 76,
+      "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -1332,8 +1333,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   }
 ]
