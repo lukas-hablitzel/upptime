@@ -6,15 +6,15 @@
     "slug": "schmidt-nagel",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "99.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "99.64%",
-    "time": 746,
-    "timeDay": 689,
-    "timeWeek": 762,
-    "timeMonth": 732,
-    "timeYear": 760,
+    "time": 747,
+    "timeDay": 1280,
+    "timeWeek": 818,
+    "timeMonth": 751,
+    "timeYear": 761,
     "dailyMinutesDown": {
       "2026-05-01": 47,
       "2026-04-25": 38,
@@ -54,8 +54,7 @@
       "2025-07-29": 19,
       "2025-07-09": 57,
       "2025-06-18": 20,
-      "2025-05-09": 17,
-      "2025-05-03": 19
+      "2025-05-09": 17
     }
   },
   {
@@ -70,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 428,
-    "timeDay": 368,
-    "timeWeek": 450,
-    "timeMonth": 491,
-    "timeYear": 445,
+    "timeDay": 717,
+    "timeWeek": 495,
+    "timeMonth": 502,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2026-03-14": 29,
       "2025-12-11": 24,
@@ -96,7 +95,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "40.11%",
+    "uptime": "40.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -107,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-02": 82,
+      "2026-05-03": 86,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -470,8 +470,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   },
   {
@@ -485,11 +484,11 @@
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
-    "time": 655,
-    "timeDay": 548,
-    "timeWeek": 670,
-    "timeMonth": 665,
-    "timeYear": 652,
+    "time": 654,
+    "timeDay": 632,
+    "timeWeek": 666,
+    "timeMonth": 668,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2026-04-30": 77,
       "2025-11-10": 24,
@@ -502,16 +501,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kokeshi.ai.ico",
     "slug": "kokeshi",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.10%",
-    "time": 1175,
-    "timeDay": 902,
-    "timeWeek": 1120,
-    "timeMonth": 1111,
-    "timeYear": 1235,
+    "time": 1176,
+    "timeDay": 1259,
+    "timeWeek": 1130,
+    "timeMonth": 1123,
+    "timeYear": 1237,
     "dailyMinutesDown": {
       "2026-03-14": 29,
       "2025-12-11": 24,
@@ -557,18 +556,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "34.10%",
+    "uptime": "34.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 482,
+    "time": 478,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-02": 82,
+      "2026-05-03": 86,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -931,8 +931,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   },
   {
@@ -946,10 +945,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
-    "time": 703,
-    "timeDay": 534,
-    "timeWeek": 682,
-    "timeMonth": 651,
+    "time": 704,
+    "timeDay": 730,
+    "timeWeek": 688,
+    "timeMonth": 658,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2025-11-07": 983,
@@ -964,7 +963,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "45.28%",
+    "uptime": "45.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -975,7 +974,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-02": 82,
+      "2026-05-03": 86,
+      "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
@@ -1338,8 +1338,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
-      "2025-05-04": 1440,
-      "2025-05-03": 1440
+      "2025-05-04": 1440
     }
   }
 ]
