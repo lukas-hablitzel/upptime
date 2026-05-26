@@ -8,13 +8,13 @@
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.32%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.61%",
-    "time": 758,
-    "timeDay": 695,
-    "timeWeek": 822,
-    "timeMonth": 769,
-    "timeYear": 762,
+    "time": 757,
+    "timeDay": 707,
+    "timeWeek": 785,
+    "timeMonth": 765,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2025-06-18": 20,
       "2025-07-09": 57,
@@ -70,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 440,
-    "timeDay": 567,
-    "timeWeek": 622,
-    "timeMonth": 514,
-    "timeYear": 453,
+    "timeDay": 466,
+    "timeWeek": 624,
+    "timeMonth": 516,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2025-06-19": 20,
       "2025-08-27": 18,
@@ -96,7 +96,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "39.65%",
+    "uptime": "39.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -107,7 +107,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 119,
+      "2026-05-26": 111,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -470,8 +471,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   },
   {
@@ -486,9 +486,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 656,
-    "timeDay": 582,
-    "timeWeek": 699,
-    "timeMonth": 670,
+    "timeDay": 520,
+    "timeWeek": 680,
+    "timeMonth": 665,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2025-09-30": 18,
@@ -506,12 +506,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.80%",
-    "time": 1181,
-    "timeDay": 1067,
-    "timeWeek": 1174,
-    "timeMonth": 1121,
-    "timeYear": 1275,
+    "uptimeYear": "95.08%",
+    "time": 1179,
+    "timeDay": 800,
+    "timeWeek": 1125,
+    "timeMonth": 1108,
+    "timeYear": 1274,
     "dailyMinutesDown": {
       "2025-06-10": 1243,
       "2025-06-09": 1440,
@@ -528,7 +528,6 @@
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
-      "2025-05-26": 1440,
       "2025-08-12": 363,
       "2025-08-27": 18,
       "2025-08-30": 43,
@@ -553,18 +552,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "33.70%",
+    "uptime": "33.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 575,
+    "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 119,
+      "2026-05-26": 111,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -927,8 +927,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   },
   {
@@ -943,9 +942,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 707,
-    "timeDay": 703,
-    "timeWeek": 721,
-    "timeMonth": 674,
+    "timeDay": 553,
+    "timeWeek": 688,
+    "timeMonth": 670,
     "timeYear": 742,
     "dailyMinutesDown": {
       "2025-08-12": 299,
@@ -960,7 +959,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "44.75%",
+    "uptime": "44.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -971,7 +970,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 119,
+      "2026-05-26": 111,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -1334,8 +1334,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   }
 ]
