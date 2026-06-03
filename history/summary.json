@@ -11,10 +11,10 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.61%",
     "time": 757,
-    "timeDay": 616,
-    "timeWeek": 718,
-    "timeMonth": 758,
-    "timeYear": 763,
+    "timeDay": 912,
+    "timeWeek": 732,
+    "timeMonth": 747,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2025-06-18": 20,
       "2025-07-09": 57,
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 444,
-    "timeDay": 435,
-    "timeWeek": 534,
-    "timeMonth": 532,
-    "timeYear": 456,
+    "time": 443,
+    "timeDay": 375,
+    "timeWeek": 479,
+    "timeMonth": 521,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2025-06-19": 20,
       "2025-08-27": 18,
@@ -96,7 +96,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "39.49%",
+    "uptime": "39.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -107,7 +107,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 129,
+      "2026-06-03": 147,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -470,8 +471,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440
+      "2025-06-04": 1440
     }
   },
   {
@@ -486,10 +486,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 656,
-    "timeDay": 540,
-    "timeWeek": 678,
-    "timeMonth": 667,
-    "timeYear": 650,
+    "timeDay": 481,
+    "timeWeek": 631,
+    "timeMonth": 662,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2025-09-30": 18,
       "2025-11-10": 24,
@@ -502,16 +502,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kokeshi.ai.ico",
     "slug": "kokeshi",
     "status": "up",
-    "uptime": "94.32%",
+    "uptime": "94.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.00%",
+    "uptimeYear": "97.28%",
     "time": 1180,
-    "timeDay": 1043,
-    "timeWeek": 1062,
-    "timeMonth": 1098,
-    "timeYear": 1270,
+    "timeDay": 927,
+    "timeWeek": 1028,
+    "timeMonth": 1087,
+    "timeYear": 1269,
     "dailyMinutesDown": {
       "2025-06-10": 1243,
       "2025-06-09": 1440,
@@ -520,7 +520,6 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
       "2025-08-12": 363,
       "2025-08-27": 18,
       "2025-08-30": 43,
@@ -545,7 +544,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "33.57%",
+    "uptime": "33.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -556,7 +555,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 129,
+      "2026-06-03": 147,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -919,8 +919,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440
+      "2025-06-04": 1440
     }
   },
   {
@@ -934,10 +933,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
-    "time": 708,
-    "timeDay": 507,
-    "timeWeek": 642,
-    "timeMonth": 661,
+    "time": 707,
+    "timeDay": 462,
+    "timeWeek": 599,
+    "timeMonth": 653,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2025-08-12": 299,
@@ -952,7 +951,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "44.57%",
+    "uptime": "44.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -963,7 +962,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 129,
+      "2026-06-03": 147,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -1326,8 +1326,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440
+      "2025-06-04": 1440
     }
   }
 ]
