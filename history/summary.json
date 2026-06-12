@@ -4,15 +4,15 @@
     "url": "https://schmidt-nagel.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schmidt-nagel.ch.ico",
     "slug": "schmidt-nagel",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.61%",
-    "time": 756,
-    "timeDay": 716,
-    "timeWeek": 672,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "82.95%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.56%",
+    "time": 757,
+    "timeDay": 727,
+    "timeWeek": 680,
     "timeMonth": 720,
     "timeYear": 764,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
       "2026-05-01": 47,
       "2026-05-06": 128,
       "2026-05-11": 86,
-      "2026-06-12": 5
+      "2026-06-12": 245
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 411,
+      "2026-06-12": 656,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -550,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 411,
+      "2026-06-12": 656,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -946,7 +946,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "44.35%",
+    "uptime": "44.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -957,7 +957,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 411,
+      "2026-06-12": 656,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
