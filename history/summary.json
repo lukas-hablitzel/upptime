@@ -4,17 +4,17 @@
     "url": "https://schmidt-nagel.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schmidt-nagel.ch.ico",
     "slug": "schmidt-nagel",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.52%",
     "time": 755,
-    "timeDay": 623,
-    "timeWeek": 778,
-    "timeMonth": 739,
-    "timeYear": 759,
+    "timeDay": 629,
+    "timeWeek": 760,
+    "timeMonth": 736,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2025-07-29": 19,
       "2025-08-18": 103,
@@ -57,7 +57,7 @@
       "2026-06-12": 245,
       "2026-06-16": 83,
       "2026-07-02": 168,
-      "2026-07-17": 5
+      "2026-07-17": 49
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1339,
+      "2026-07-17": 1389,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -550,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1339,
+      "2026-07-17": 1389,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -957,7 +957,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1339,
+      "2026-07-17": 1389,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
