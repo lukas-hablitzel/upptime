@@ -6,15 +6,15 @@
     "slug": "schmidt-nagel",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "82.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.97%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "99.33%",
     "time": 761,
-    "timeDay": 882,
-    "timeWeek": 762,
-    "timeMonth": 721,
-    "timeYear": 763,
+    "timeDay": 735,
+    "timeWeek": 748,
+    "timeMonth": 724,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2025-11-22": 17,
       "2025-11-24": 41,
@@ -77,10 +77,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 471,
-    "timeDay": 780,
-    "timeWeek": 583,
-    "timeMonth": 545,
+    "time": 472,
+    "timeDay": 468,
+    "timeWeek": 560,
+    "timeMonth": 541,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2025-10-10": 26,
@@ -98,7 +98,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rothcoaching-challenges.com.ico",
     "slug": "rothcoaching-challenges",
     "status": "down",
-    "uptime": "37.57%",
+    "uptime": "37.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -109,7 +109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-12": 103,
+      "2026-09-13": 94,
+      "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
@@ -472,8 +473,7 @@
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
-      "2025-09-14": 1440,
-      "2025-09-13": 1440
+      "2025-09-14": 1440
     }
   },
   {
@@ -488,9 +488,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 637,
-    "timeDay": 615,
-    "timeWeek": 567,
-    "timeMonth": 548,
+    "timeDay": 713,
+    "timeWeek": 561,
+    "timeMonth": 557,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2025-09-30": 18,
@@ -510,11 +510,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
-    "time": 1250,
-    "timeDay": 1296,
-    "timeWeek": 1089,
-    "timeMonth": 1065,
-    "timeYear": 1183,
+    "time": 1249,
+    "timeDay": 899,
+    "timeWeek": 1058,
+    "timeMonth": 1057,
+    "timeYear": 1181,
     "dailyMinutesDown": {
       "2025-10-10": 26,
       "2025-10-20": 44,
@@ -534,7 +534,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukas-hablitzel.com.ico",
     "slug": "lukas-hablitzel",
     "status": "down",
-    "uptime": "31.94%",
+    "uptime": "31.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -545,7 +545,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-12": 104,
+      "2026-09-13": 94,
+      "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
@@ -908,8 +909,7 @@
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
-      "2025-09-14": 1440,
-      "2025-09-13": 1440
+      "2025-09-14": 1440
     }
   },
   {
@@ -924,10 +924,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 712,
-    "timeDay": 607,
-    "timeWeek": 621,
-    "timeMonth": 601,
-    "timeYear": 650,
+    "timeDay": 429,
+    "timeWeek": 583,
+    "timeMonth": 593,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2025-11-07": 983,
       "2025-11-06": 1440,
@@ -940,7 +940,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test4.one-squared.com.ico",
     "slug": "next-test",
     "status": "down",
-    "uptime": "42.41%",
+    "uptime": "42.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -951,7 +951,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-12": 104,
+      "2026-09-13": 94,
+      "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
@@ -1314,8 +1315,7 @@
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
-      "2025-09-14": 1440,
-      "2025-09-13": 1440
+      "2025-09-14": 1440
     }
   }
 ]
